@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Vixcon Hugo| Event &amp;amp; Conference hugo template</title>
-    <link>https://examplesite.org/categories/</link>
-    <description>Recent content in Categories on Vixcon Hugo| Event &amp;amp; Conference hugo template</description>
+    <title>Categories on Festival N&#39;Ca Mayalde | Aldeatejada, Salamanca. 29-31 Mayo 2020</title>
+    <link>https://festival.ncamayalde.com/categories/</link>
+    <description>Recent content in Categories on Festival N&#39;Ca Mayalde | Aldeatejada, Salamanca. 29-31 Mayo 2020</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>es-es</language>
     
-	<atom:link href="https://examplesite.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://festival.ncamayalde.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creative</title>
-      <link>https://examplesite.org/categories/creative/</link>
+      <link>https://festival.ncamayalde.com/categories/creative/</link>
       <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
       
-      <guid>https://examplesite.org/categories/creative/</guid>
+      <guid>https://festival.ncamayalde.com/categories/creative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Event</title>
-      <link>https://examplesite.org/categories/event/</link>
+      <link>https://festival.ncamayalde.com/categories/event/</link>
       <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
       
-      <guid>https://examplesite.org/categories/event/</guid>
+      <guid>https://festival.ncamayalde.com/categories/event/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Innovation</title>
-      <link>https://examplesite.org/categories/innovation/</link>
+      <link>https://festival.ncamayalde.com/categories/innovation/</link>
       <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
       
-      <guid>https://examplesite.org/categories/innovation/</guid>
+      <guid>https://festival.ncamayalde.com/categories/innovation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lifestyle</title>
-      <link>https://examplesite.org/categories/lifestyle/</link>
+      <link>https://festival.ncamayalde.com/categories/lifestyle/</link>
       <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
       
-      <guid>https://examplesite.org/categories/lifestyle/</guid>
+      <guid>https://festival.ncamayalde.com/categories/lifestyle/</guid>
       <description></description>
     </item>
     
