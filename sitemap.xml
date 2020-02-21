@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://festival.ncamayalde.com/artistas/mayalde/</loc>
+    <lastmod>2020-02-20T20:28:25+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://festival.ncamayalde.com/artistas/la-chana-teatro/</loc>
+    <lastmod>2020-02-20T17:30:25+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://festival.ncamayalde.com/artistas/celso-san-martin-y-guti/</loc>
+    <lastmod>2020-02-20T17:28:25+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://festival.ncamayalde.com/artistas/la-ronda-de-montilleja/</loc>
+    <lastmod>2020-02-20T16:57:25+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://festival.ncamayalde.com/blog/post.1/</loc>
     <lastmod>2019-09-10T13:51:25+06:00</lastmod>
   </url>
@@ -93,7 +113,7 @@
   
   <url>
     <loc>https://festival.ncamayalde.com/</loc>
-    <lastmod>2019-09-10T13:51:25+06:00</lastmod>
+    <lastmod>2020-02-20T20:28:25+06:00</lastmod>
     <priority>0</priority>
   </url>
   
